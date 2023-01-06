@@ -1,0 +1,8 @@
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.shadow {
+    /* box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2); */
+    box-shadow: inset 2px -9px 24px -4px rgba(0,0,0,0.1);
+}
