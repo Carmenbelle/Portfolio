@@ -6,7 +6,7 @@ function About() {
     <>
     <section className='m-5 max-w-screen-xl py-32'>
       <header>
-      <div className="flex space-x-6 text-gray-700 text-5xl py-10 font-semibold ">
+      <div className="flex space-x-6 text-gray-700 text-5xl pl-8 py-10 font-semibold ">
             <h1>About Me</h1>
             <div className="w-32 bg-[rgb(73,66,171)] h-0 p-[0.6px] mt-7 border-1 mr-8 "></div>
       </div>
